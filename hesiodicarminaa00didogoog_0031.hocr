@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hesiodicarminaa00didogoog/hesiodicarminaa00didogoog_0031.png"; bbox 0 0 3850 5925; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 600 1626 1293 1870">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 600 1626 1293 1870">
+     <span class='ocr_line' id='line_1_1' title="bbox 600 1626 1293 1870; baseline -0.006 -5"><span class='ocrx_word' id='word_1_1' title='bbox 600 1626 1293 1870; x_wconf 80' lang='grc' dir='ltr'><strong>ΗΣΙΟΔΟΥ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 504 2201 1569 2403">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 504 2201 1569 2403">
+     <span class='ocr_line' id='line_1_2' title="bbox 504 2201 1569 2403; baseline 0 -2"><span class='ocrx_word' id='word_1_2' title='bbox 504 2277 652 2403; x_wconf 81' lang='lat' dir='ltr'><strong>KAI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 698 2276 936 2403; x_wconf 79' lang='grc' dir='ltr'>ΕΠΩΝ</span> <span class='ocrx_word' id='word_1_4' title='bbox 985 2274 1393 2402; x_wconf 69' lang='grc' dir='ltr'><strong>ΛΕΙΨΑΝΑ.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1565 2201 1569 2207; x_wconf 62' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 846 2549 1053 2579">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 846 2549 1053 2579">
+     <span class='ocr_line' id='line_1_3' title="bbox 846 2549 1053 2579; baseline -0.005 -4"><span class='ocrx_word' id='word_1_6' title='bbox 846 2549 1053 2579; x_wconf 38' lang='lat'><strong>*0*-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 661 2816 1257 3030">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 661 2816 1257 3030">
+     <span class='ocr_line' id='line_1_4' title="bbox 661 2816 1257 3030; baseline -0.005 -6"><span class='ocrx_word' id='word_1_7' title='bbox 661 2816 1257 3030; x_wconf 88' lang='lat' dir='ltr'><strong>HESIODI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 431 3175 1483 3299">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 431 3175 1483 3299">
+     <span class='ocr_line' id='line_1_5' title="bbox 431 3175 1483 3299; baseline -0.009 -4"><span class='ocrx_word' id='word_1_8' title='bbox 431 3175 789 3299; x_wconf 84' lang='lat' dir='ltr'><strong>CARMINA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 831 3181 932 3296; x_wconf 90' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 977 3177 1483 3299; x_wconf 86' lang='lat' dir='ltr'><strong>FRAGMENTA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1930 5925">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1930 5925">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1930 5925; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1930 5925; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
